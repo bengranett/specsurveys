@@ -1,0 +1,4 @@
+name: GAMA
+count: 300000
+zrange: 0 0.5
+area: 286

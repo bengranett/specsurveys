@@ -1,0 +1,4 @@
+name: 2DFGRS
+count: 232155
+area: 1500
+zrange: 0 0.2

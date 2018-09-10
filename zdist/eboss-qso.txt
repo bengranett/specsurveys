@@ -1,0 +1,4 @@
+name: eBOSS QSO
+count: 573000
+area: 7500
+zrange: 0.9 3.5

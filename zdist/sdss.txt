@@ -1,0 +1,4 @@
+name: SDSS
+zrange: 0 0.3
+count: 928567
+area: 9000

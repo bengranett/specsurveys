@@ -1,0 +1,4 @@
+name: eBOSS LRG
+count: 300000
+area: 7500
+zrange: 0.6 0.8

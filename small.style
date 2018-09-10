@@ -1,0 +1,12 @@
+figure.figsize : 6,4 
+axes.labelsize: 18
+xtick.labelsize : 16
+ytick.labelsize : 16
+legend.fontsize : 16
+
+figure.subplot.left  : 0.15    # the bottom of the subplots of the figure
+figure.subplot.right  : 0.95    # the bottom of the subplots of the figure
+figure.subplot.bottom  : 0.15    # the bottom of the subplots of the figure
+figure.subplot.top     : 0.95    # the top of the subplots of the figure
+
+

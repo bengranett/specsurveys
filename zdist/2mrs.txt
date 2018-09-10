@@ -1,0 +1,4 @@
+name: 2MRS
+count: 43500
+area: 37000
+zrange: 0 0.05

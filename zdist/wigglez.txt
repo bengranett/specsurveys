@@ -1,0 +1,4 @@
+name: WiggleZ
+count: 238770
+zrange: 0.2 1.0
+area: 1000

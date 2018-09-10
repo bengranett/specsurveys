@@ -1,0 +1,4 @@
+name: 6DF
+count: 120000
+area: 16000
+zrange: 0 0.05
